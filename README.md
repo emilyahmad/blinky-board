@@ -1,4 +1,4 @@
-# blinky board
+# Blinky board
 
 This toro inoue inspired 555 LED chaser board contains 2 IC's: CD4017 to control LED's flashing and get input from NE555P, 2 header pins to power the circuit, standard capacitors and resistors, and of course LEDs. LEDs blink using the 555's astable mode to produces a continuous oscillating signal by toggling its output between high and low Made with help from @Tanishq Goyal qnd @CAN's guides on stasis.
 
