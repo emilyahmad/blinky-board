@@ -4,7 +4,7 @@ This toro inoue inspired 555 LED chaser board contains 2 IC's: CD4017 to control
 
 # Photos
 
-| Schematic                          | PCB                    | 3D Render            |
+| Schematic                          | PCB                    | 3D Viewer            |
 | ---------------------------------- | ---------------------- | -------------------- |
 | ![Schematic](images/schematic.png) | ![PCB](images/pcb.png) | ![3D](images/3d.png) |
 
