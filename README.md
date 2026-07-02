@@ -8,6 +8,12 @@ This toro inoue inspired 555 LED chaser board contains 2 IC's: CD4017 to control
 | ---------------------------------- | ---------------------- | -------------------- |
 | ![Schematic](images/schematic.png) | ![PCB](images/pcb.png) | ![3D](images/3d.png) |
 
+# Physical PCB / After Soldering
+
+| Front                              | Back                             | Powered                                 |
+| ---------------------------------- | -------------------------------- | --------------------------------------- |
+| ![Front](images/frontSoldered.JPG) | ![Back](images/backSoldered.JPG) | ![Arduino](images/arduinoConnected.JPG) |
+
 # BOM
 
 (Technically just using the blinky board kit from Hack Club)

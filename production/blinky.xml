@@ -6438,7 +6438,7 @@
     <Enterprise id="UNKNOWN" code="NONE"/>
     <Person name="UNKNOWN" enterpriseRef="UNKNOWN" roleRef="Owner"/>
   </LogisticHeader>
-  <HistoryRecord number="1" origination="2026-05-04T15:22:32" software="KiCad EDA" lastChange="2026-05-04T15:22:32">
+  <HistoryRecord number="1" origination="2026-05-04T15:12:51" software="KiCad EDA" lastChange="2026-05-04T15:12:51">
     <FileRevision fileRevisionId="1" comment="NO COMMENT" label="NO LABEL">
       <SoftwarePackage name="KiCad" revision="9.99.0" vendor="KiCad EDA">
         <Certification certificationStatus="SELFTEST"/>
@@ -28828,7 +28828,7 @@
     </CadData>
   </Ecad>
   <Avl name="Primary_Vendor_List">
-    <AvlHeader title="BOM" source="KiCad" author="OWNER" datetime="2026-05-04T15:22:32" version="1"/>
+    <AvlHeader title="BOM" source="KiCad" author="OWNER" datetime="2026-05-04T15:12:51" version="1"/>
     <AvlItem OEMDesignNumber="Potentiometer_THT_Potentiometer_Vishay_T93YA_Vertical_50k"/>
     <AvlItem OEMDesignNumber="Resistor_THT_R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal_470"/>
     <AvlItem OEMDesignNumber="LED_THT_LED_D3.0mm_LED"/>
